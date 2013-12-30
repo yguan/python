@@ -1,0 +1,26 @@
+install pip -> run ez_setup.py -> run get-pip.python
+
+pip install ipython[all]
+
+get MinGW -> install cython
+
+packages are install under C:\Python33\Lib\site-packages
+
+pip
+=========================
+if fail to install, use easy_install
+pip install zipline
+or
+easy_install zipline
+
+
+scipy
+=========================
+get the package from Pyzo, unzip, then install the latest python over
+
+
+ipython
+=========================
+ipython3 qtconsole --matplotlib inline
+
+
